@@ -7,12 +7,6 @@ import TeamPage from "./components/react/team-page";
 import RecruitmentPage from "./components/react/recruitment-page";
 import { SiteFooter } from "./components/react/site-footer";
 import { SiteNav } from "./components/react/site-nav";
-import "./static/css/navbar.css";
-import "./static/css/style.css";
-import "./static/css/clients.css";
-import "./static/css/contact-us.css";
-import "./static/css/team.css";
-import "./static/css/recruitment.css";
 
 const routes: Record<string, React.ComponentType> = {
   "/": HomePage,

@@ -34,7 +34,7 @@
       {
         "name": "Lore",
         "type": "Internal Project",
-        "description": "TODO",
+        "description": "A recreational social media platform dedicated to emphasizing group connection through fun and enriching activities!",
         "thumbLetter": "L",
         "thumbImage": "/static/images/clients/datadashboard.png"
       }
@@ -43,7 +43,7 @@
       {
         "name": "Inora",
         "type": "External Project",
-        "description": "TODO",
+        "description": "Develops advanced measurement and data analysis solutions to improve precision, efficiency, and quality in manufacturing.",
         "thumbLetter": "I",
         "thumbImage": "/static/images/clients/inora.png",
         "link": "https://inora.com"
@@ -51,7 +51,7 @@
       {
         "name": "New Haptics",
         "type": "External Project",
-        "description": "TODO",
+        "description": "Creates innovative tactile Braille technology to improve digital accessibility for blind and visually impaired individuals.",
         "thumbLetter": "NH",
         "thumbImage": "/static/images/clients/newhaptics.png",
         "link": "https://newhaptics.com"
@@ -59,7 +59,7 @@
       {
         "name": "Optilogic",
         "type": "External Project",
-        "description": "TODO",
+        "description": "Provides AI-powered supply chain optimization software to help businesses reduce costs, manage risks, and improve efficiency.",
         "thumbLetter": "O",
         "thumbImage": "/static/images/clients/optilogic.png",
         "link": "https:/optilogic.com"
@@ -67,21 +67,21 @@
       {
         "name": "Menlo",
         "type": "External Project",
-        "description": "TODO",
+        "description": "Develops custom software through human-centered design and collaborative innovation.",
         "thumbLetter": "M",
         "link": "https://menlo.com"
       },
       {
         "name": "MTutor",
         "type": "External Project",
-        "description": "TODO",
+        "description": "Connects University of Michigan students with affordable peer tutors for personalized academic support.",
         "thumbLetter": "MT",
         "thumbImage": "/static/images/clients/mtutor.png"
       },
       {
         "name": "Avodah",
         "type": "External Project",
-        "description": "TODO",
+        "description": "Develops AI-powered healthcare documentation and translation solutions to improve communication and accessibility.",
         "thumbLetter": "A",
         "thumbImage": "/static/images/clients/avodah.png"
       }
@@ -91,6 +91,6 @@
     "title": "Interested?",
     "body": "Reach out and we’d love to discuss what IFI can build for you.",
     "buttonText": "Contact Us",
-    "buttonHref": "/pages/contact-us.html"
+    "buttonHref": "/contact-us"
   }
 }

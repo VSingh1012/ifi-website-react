@@ -247,13 +247,14 @@
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.5rem;
+  gap: 150vh;
   margin-bottom: 0.5rem;
 }
 
 .project-card {
   background: transparent;
   color: #020617;
+  width : 500px; 
   border-radius: 18px;
   overflow: hidden;
   box-shadow: 0 20px 40px rgba(15, 23, 42, 0.9);
@@ -262,7 +263,7 @@
 }
 
 .project-thumb {
-  width: 110px;
+  width: 210px;
   background: transparent;
   color: #f9fafb;
   display: flex;
@@ -274,6 +275,7 @@
 
 .project-thumb img {
   width: 100%;
+  border-color: white;
   height: 100%;
   object-fit: cover;
 }
@@ -286,6 +288,7 @@
 .project-title {
   font-size: 1rem;
   font-weight: 700;
+  width: 250px;
   margin-bottom: 0.2rem;
   color: #f9fafb;
 }
